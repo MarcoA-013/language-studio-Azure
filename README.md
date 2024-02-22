@@ -7,7 +7,11 @@ Dentro do Language Studio, escolhemos a categoria "Classify Text" e depois a fat
 "Analyze sentiment and mine opinions" para extrair os "sentimentos" de exemplos fornecidos
 em diversos formatos.
 
-![Language Studio - Analyze Sentiments and Opinions](assets/images/ls1.png)
+![Language Studio - Analyze Sentiments and Opinions](assets/images/Sentiment.png)
+
+### Ou poderia ser, por exemplo, "Conversação" ou "Interpretação de Questões":
+
+![Language Studio - Understanding Questions and Conversational Language](assets/images/ls1.png)
 
 ## Resultados
 
