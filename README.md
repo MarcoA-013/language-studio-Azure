@@ -9,7 +9,7 @@ em diversos formatos.
 
 ![Language Studio - Analyze Sentiments and Opinions](assets/images/Sentiment.png)
 
-### Ou poderia ser, por exemplo, "Conversação" ou "Interpretação de Questões":
+### Ou poderia ser, por exemplo, "Linguagem de Conversação" ou "Compreender Perguntas":
 
 ![Language Studio - Understanding Questions and Conversational Language](assets/images/ls1.png)
 
